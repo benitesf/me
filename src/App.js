@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import LoaderC from './component/loader'
-import Navigation from './component/navigation'
-import Home from './component/home'
-import About from './component/about'
-import Experience from './component/experience'
-import Project from './component/project'
-import Contact from './component/contact'
+import LoaderC from './components/loader'
+import Navigation from './components/navigation'
+import Home from './components/home'
+import About from './components/about'
+import Experience from './components/experience'
+import Project from './components/project'
+import Contact from './components/contact'
 
 class App extends Component {
 	render() {
