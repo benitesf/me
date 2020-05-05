@@ -12,7 +12,7 @@ export default class Experience extends Component {
 									<h3 className="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Education</h3>
 									<div className="mh-education-deatils">
 										<div className="mh-education-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
-											<h4>Computer Egineering From <a haref="">Public University of Navarre</a></h4>
+											<h4>Computer Egineering From <a href="http://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/presentacion.html" rel="noopener">Public University of Navarre</a></h4>
 											<div className="mh-eduyear">2012-2018</div>
 											<p>Add text</p>
 										</div>
@@ -33,7 +33,7 @@ export default class Experience extends Component {
 											</ul>
 										</div>
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
-											<h4>AI Engineer <a href="" rel="noopener">Bambrai</a></h4>
+											<h4>AI Engineer <a href="#" rel="noopener">Bambrai</a></h4>
 											<div className="mh-eduyear">February 2019 - October 2019</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">
@@ -42,7 +42,7 @@ export default class Experience extends Component {
 											</ul>
 										</div>
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s">
-											<h4>Intern Intelligent Systems <a href="" rel="noopener">AIN</a></h4>
+											<h4>Intern Intelligent Systems <a href="https://www.ain.es" rel="noopener">AIN</a></h4>
 											<div className="mh-eduyear">February 2019 - October 2019</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">

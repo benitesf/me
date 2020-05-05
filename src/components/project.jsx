@@ -52,7 +52,7 @@ export default class Project extends Component {
 										<li><span>React</span></li>
 									</ul>
 								</div>
-								<a href="" className="btn btn-fill">Live Demo</a>
+								<a href="#" className="btn btn-fill">Live Demo</a>
 							</div>
 							<div className="col-sm-7">
 								<div className="mh-portfolio-modal-img">
