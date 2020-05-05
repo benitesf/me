@@ -24,7 +24,7 @@ export default class Experience extends Component {
 									<h3>Work Experience</h3>
 									<div className="mh-experience-deatils">
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
-											<h4>Research Assistant <a href="" rel="noopener">Vicomtech</a></h4>
+											<h4>Research Assistant <a href="https://vicomtech.org" rel="noopener">Vicomtech</a></h4>
 											<div className="mh-eduyear">November 2019 - Present</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">
