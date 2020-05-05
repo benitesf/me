@@ -24,7 +24,7 @@ export default class Experience extends Component {
 									<h3>Work Experience</h3>
 									<div className="mh-experience-deatils">
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
-											<h4>Research Assistant <a href="">Vicomtech</a></h4>
+											<h4>Research Assistant <a href="" rel="noopener">Vicomtech</a></h4>
 											<div className="mh-eduyear">November 2019 - Present</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">
@@ -33,7 +33,7 @@ export default class Experience extends Component {
 											</ul>
 										</div>
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
-											<h4>AI Engineer <a href="">Bambrai</a></h4>
+											<h4>AI Engineer <a href="" rel="noopener">Bambrai</a></h4>
 											<div className="mh-eduyear">February 2019 - October 2019</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">
@@ -42,7 +42,7 @@ export default class Experience extends Component {
 											</ul>
 										</div>
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.8s">
-											<h4>Intern Intelligent Systems <a href="">AIN</a></h4>
+											<h4>Intern Intelligent Systems <a href="" rel="noopener">AIN</a></h4>
 											<div className="mh-eduyear">February 2019 - October 2019</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">

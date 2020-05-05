@@ -19,9 +19,9 @@ export default class Home extends Component {
 										<li className="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i className="fa fa-map-marker"></i><address>Navarre, Spain</address></li>
 									</ul>
 									<ul className="social-icon wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
-										<li><a href="https://github.com/benitesf" target="_blank"><i className="fa fa-github"></i></a></li>
-										<li><a href="https://twitter.com/e2benites" target="_blank"><i className="fa fa-twitter"></i></a></li>
-										<li><a href="https://linkedin.com/in/edson-esteban-benites-fernández-6298aa143" target="_blank"><i className="fa fa-linkedin"></i></a></li>
+										<li><a href="https://github.com/benitesf" target="noopener"><i className="fa fa-github"></i></a></li>
+										<li><a href="https://twitter.com/e2benites" target="noopener"><i className="fa fa-twitter"></i></a></li>
+										<li><a href="https://linkedin.com/in/edson-esteban-benites-fernández-6298aa143" target="noopener"><i className="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
 							</div>

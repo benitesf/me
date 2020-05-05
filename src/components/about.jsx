@@ -24,7 +24,7 @@ export default class About extends Component {
 										<li><span>API Rest</span></li>
 									</ul>
 								</div>
-								<a href="" className="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">Download CV <i className="fa fa-download"></i></a>
+								<a href="" className="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" rel="noopener">Download CV <i className="fa fa-download"></i></a>
 							</div>
 						</div>
 					</div>
