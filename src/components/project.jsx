@@ -27,7 +27,7 @@ export default class Project extends Component {
 												<i className="fa fa-search"></i>
 												<h5 className="title">Project1</h5>
 												<span className="Sub-title">Cat1</span>
-												<a href="#0" data-fancybox data-src="#mh"></a>
+												<a href="#0" data-fancybox data-src="#mh">container</a>
 											</figcaption>
 										</figure>
 									</div>
