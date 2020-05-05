@@ -1,4 +1,4 @@
 # Portfolio in React
-A personal portfolio in react.
+My personal portfolio in react and github pages.
 
-Inspired on [this](http://cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one-w.html).
+The theme is inspired on [this template](http://cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one-w.html).
