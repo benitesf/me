@@ -27,7 +27,7 @@ export default class Project extends Component {
 												<i className="fa fa-search"></i>
 												<h5 className="title">Project1</h5>
 												<span className="Sub-title">Cat1</span>
-												<a data-fancybox data-src="#mh"></a>
+												<a href="#0" data-fancybox data-src="#mh"></a>
 											</figcaption>
 										</figure>
 									</div>
@@ -52,7 +52,7 @@ export default class Project extends Component {
 										<li><span>React</span></li>
 									</ul>
 								</div>
-								<a href="#" className="btn btn-fill">Live Demo</a>
+								<a href="#0" className="btn btn-fill">Live Demo</a>
 							</div>
 							<div className="col-sm-7">
 								<div className="mh-portfolio-modal-img">

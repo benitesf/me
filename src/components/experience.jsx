@@ -33,7 +33,7 @@ export default class Experience extends Component {
 											</ul>
 										</div>
 										<div className="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
-											<h4>AI Engineer <a href="#" rel="noopener">Bambrai</a></h4>
+											<h4>AI Engineer <a href="#0" rel="noopener">Bambrai</a></h4>
 											<div className="mh-eduyear">February 2019 - October 2019</div>
 											<span>Responsibility :</span>
 											<ul className="work-responsibility">
